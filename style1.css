@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+.v0_115 {
+  width: 100%;
+  height: 3072px;
+  background: rgba(255,248,207,1);
+  position: relative;
+  overflow: hidden;
+}
+
+.v0_117, .v1_138 {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+}
+
+.v0_117 {
+  width: 718px;
+  height: 263px;
+  background-image: url("../images/v0_117.png");
+  top: 210px;
+  left: 361px;
+}
+
+.v0_118, .v1_137, .v0_122, .v0_123, .v0_124, .v0_125, 
+.v0_126, .v0_127, .v0_128, .v0_129, .v0_130, .v0_131,
+.v0_132, .v0_133, .v0_134, .v0_135, .v0_136, .v0_137, 
+.v0_138, .v0_139, .v0_140, .v0_141, .v0_142, .v0_143, 
+.v0_144, .v0_145, .v0_146, .v0_147, .v0_148, .v0_149, 
+.v0_150, .v0_151, .v0_152, .v0_153, .v0_154, .v0_155, 
+.v0_156, .v0_157, .v0_158, .v0_159, .v0_160, .v0_161 {
+  color: rgba(0,0,0,1);
+  font-family: 'Mochiy Pop One', sans-serif;
+  font-weight: regular;
+  font-size: 24px;
+  text-align: left;
+  position: absolute;
+}
+
+.name {
+  color: #fff;
+}
